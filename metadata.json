@@ -1,0 +1,6 @@
+{
+  "name": "HTML to JSON Portfolio Studio",
+  "description": "Convert HTML portfolio projects to structured JSON formats with real-time conversion, live interactive preview, and schema export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
